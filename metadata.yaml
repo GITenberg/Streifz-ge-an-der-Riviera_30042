@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34331
     wikipedia: http://en.wikipedia.org/wiki/Eduard_Strasburger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30042#Streifz-ge-an-der-Riviera
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2009-09-20'
 gutenberg_type: Text
