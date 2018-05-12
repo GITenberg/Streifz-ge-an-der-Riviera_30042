@@ -1,0 +1,30 @@
+_repo: Streifz-ge-an-der-Riviera_30042
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strasburger, Eduard
+    alias: Strasburger, Edward
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '34331'
+    url: http://www.gutenberg.org/2009/agents/34331
+    wikipedia: http://en.wikipedia.org/wiki/Eduard_Strasburger
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2009-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30042'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- France -- Riviera'
+- !lcc 'QK'
+- !lcsh 'Riviera (France) -- Description and travel'
+title: Streifzüge an der Riviera
+url: http://www.gutenberg.org/ebooks/30042
